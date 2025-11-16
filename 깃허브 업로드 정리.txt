@@ -1,0 +1,4 @@
+1. .md 파일 저장한 디렉토리로 이동 cd 사용.
+2. add -> git add .
+3. commit -> git commit -m "업데이트 내용 작성"
+4. push -> git push origin master
